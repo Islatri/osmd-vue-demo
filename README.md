@@ -2,7 +2,7 @@
 
 一个基于 Vue 3 + TypeScript 的音乐乐谱渲染演示项目，使用 OpenSheetMusicDisplay 库展示 MusicXML 格式的乐谱。
 
-[WebsiteImage](./image.png)
+![WebsiteImage](./image.png)
 
 ## About
 
